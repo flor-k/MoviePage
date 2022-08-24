@@ -1,0 +1,19 @@
+.cardDetail{
+
+padding: 5rem;
+justify-content: center;
+align-content: center;
+display:flex;
+flex-flow: row;
+}
+
+.Poster{
+    min-width: 50%;
+    height: max-content;
+}
+
+.divMvie{
+    padding: 2rem;
+    display:flex;
+flex-flow: column;
+}

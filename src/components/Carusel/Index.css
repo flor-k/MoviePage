@@ -1,0 +1,12 @@
+#carouselExampleControls{
+width: 20rem;
+    align-self: center;
+    justify-self: center;
+}
+
+.carusel{
+    padding-left: 5rem !important;
+    width: 100%;
+    height: 100%;
+}
+

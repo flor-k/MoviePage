@@ -1,0 +1,36 @@
+.NavBar{
+    background-color: rgb(65, 3, 132);
+    width: 100%;
+    height: 10rem;
+    display:grid;
+    grid-template-columns: 20% 1fr 1fr;
+    padding-top: 2rem;
+    color: #ffb400;
+}
+
+
+a,h4{
+    color: #ffb400 !important;
+    font-family: 'Silkscreen', cursive;
+    font-size: 2rem;
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    text-decoration-line: none;
+
+}
+
+a:hover{
+    color:aqua !important;
+}
+img{
+    width: 9rem !important;
+}
+
+.contenedor{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
